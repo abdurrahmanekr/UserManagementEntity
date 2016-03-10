@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="testModelStoreContainer" CdmEntityContainer="testEntities">
+    <EntitySetMapping Name="parent">
+      <EntityTypeMapping TypeName="testModel.parent">
+        <MappingFragment StoreEntitySet="parent">
+          <ScalarProperty Name="father" ColumnName="father" />
+          <ScalarProperty Name="mother" ColumnName="mother" />
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="section">
+      <EntityTypeMapping TypeName="testModel.section">
+        <MappingFragment StoreEntitySet="section">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="testModel.users">
+        <MappingFragment StoreEntitySet="users">
+          <ScalarProperty Name="sur_name" ColumnName="sur_name" />
+          <ScalarProperty Name="section_id" ColumnName="section_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

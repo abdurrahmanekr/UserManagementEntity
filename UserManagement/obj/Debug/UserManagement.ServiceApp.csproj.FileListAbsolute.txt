@@ -1,0 +1,11 @@
+C:\Users\Abdurrahman\documents\visual studio 2013\Projects\UserManagement\UserManagement\bin\UserManagement.dll.config
+C:\Users\Abdurrahman\documents\visual studio 2013\Projects\UserManagement\UserManagement\bin\UserManagement.dll
+C:\Users\Abdurrahman\documents\visual studio 2013\Projects\UserManagement\UserManagement\bin\UserManagement.pdb
+C:\Users\Abdurrahman\documents\visual studio 2013\Projects\UserManagement\UserManagement\bin\UserManagement.DataService.dll
+C:\Users\Abdurrahman\documents\visual studio 2013\Projects\UserManagement\UserManagement\bin\UserManagement.DataService.pdb
+C:\Users\Abdurrahman\documents\visual studio 2013\Projects\UserManagement\UserManagement\obj\Debug\UserManagement.ServiceApp.csprojResolveAssemblyReference.cache
+C:\Users\Abdurrahman\documents\visual studio 2013\Projects\UserManagement\UserManagement\obj\Debug\UserManagement.dll
+C:\Users\Abdurrahman\documents\visual studio 2013\Projects\UserManagement\UserManagement\obj\Debug\UserManagement.pdb
+C:\Users\Abdurrahman\documents\visual studio 2013\Projects\UserManagement\UserManagement\bin\EntityFramework.dll
+C:\Users\Abdurrahman\documents\visual studio 2013\Projects\UserManagement\UserManagement\bin\EntityFramework.xml
+C:\Users\Abdurrahman\documents\visual studio 2013\Projects\UserManagement\UserManagement\bin\Newtonsoft.Json.dll
